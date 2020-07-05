@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
     bsdmainutils \
     ccache \
     cpio \
+    dpkg-dev \
 	fakeroot \
     flex \
     g++ \
